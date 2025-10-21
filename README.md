@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=200&section=header&text=Hi%20I'm%20Oriya%20&desc=%F0%9F%91%8B&fontSize=45&fontColor=ffffff&fontAlignY=35&descAlignY=45" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=200&section=header&text=Hi%20I'm%20Oriya%20👋&fontSize=45&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 
