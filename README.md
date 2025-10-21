@@ -38,15 +38,15 @@ Curious mind • Collaborative spirit • Passion for clean, impactful code • 
 
 
 <p align="center">
-  #### Frontend
+  ####Frontend
   <img src="https://img.shields.io/badge/React%20·%20TypeScript%20·%20Vite%20·%20Tailwind-blue?style=for-the-badge" />
   <br/>
-  #### Backend
+  ####Backend
   <img src="https://img.shields.io/badge/Node.js%20·%20PostgreSQL%20·%20MongoDB%20·%20Python-brightgreen?style=for-the-badge" />
   <br/>
   <img src="https://img.shields.io/badge/Docker%20·%20Firebase%20·%20Render-lightgrey?style=for-the-badge" />
   <br/>
-  #### Tools & DevOps
+  ####Tools & DevOps
   <img src="https://img.shields.io/badge/Git%20·%20Postman%20·%20Jira%20·%20VS%20Code%20·%20Agile-orange?style=for-the-badge" />
 </p>
 
@@ -84,7 +84,10 @@ Curious mind • Collaborative spirit • Passion for clean, impactful code • 
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/oriya-shimonian"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://github.com/oriya-shimonian"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
+  <a href="mailto:oriyashimonian@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-oriyashimonian%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+<a href="https://github.com/oriya-shimonian"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
