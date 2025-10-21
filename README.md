@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <h2 align="center">Full-Stack Software Engineer • React | Node.js | TypeScript | SQL</h2>
 
 <p align="center">
-I love creating meaningful digital products — from real-time web apps to AI-powered tools.<br/>
-Curious mind • Collaborative spirit • Passion for clean, impactful code ✨
+I love creating scalable, impactful web solutions that blend technology and creativity.<br/>
+Curious mind • Collaborative spirit • Passion for clean, impactful code •  thrive on challenges✨
 </p>
 
 ---
 
 ### 🧠 About Me
 - 🎓 Software Engineering B.Sc. (Azrieli College of Engineering, 2025)  
-- 💻 Full-stack experience in both **cybersecurity** and **product-oriented** environments  
+- 💻 4 years of hands-on experience in full-stack experience in both **cybersecurity** and **product-oriented** environments  
 - 🧩 Designed and built scalable, accessible, production-grade systems  
 - 🤖 Fascinated by AI-driven automation & UX optimization  
 - 🌍 Always learning, improving, and sharing knowledge  
@@ -36,29 +36,18 @@ Curious mind • Collaborative spirit • Passion for clean, impactful code ✨
 
 ### 🛠 Tech Stack
 
-#### Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" height="45" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular" />
-</p>
 
-#### Backend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-</p>
-
-#### Tools & DevOps
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode" />
+  #### Frontend
+  <img src="https://img.shields.io/badge/Frontend-React%20·%20TypeScript%20·%20Vite%20·%20Tailwind-blue?style=for-the-badge" />
+  <br/>
+  #### Backend
+  <img src="https://img.shields.io/badge/Backend-Node.js%20·%20PostgreSQL%20·%20MongoDB%20·%20Python-brightgreen?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/DevOps-Docker%20·%20Firebase%20·%20Render-lightgrey?style=for-the-badge" />
+  <br/>
+  #### Tools & DevOps
+  <img src="https://img.shields.io/badge/Tools-Git%20·%20Postman%20·%20Jira%20·%20VS%20Code%20·%20Agile-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -69,13 +58,17 @@ Curious mind • Collaborative spirit • Passion for clean, impactful code ✨
 | [Swapify](https://github.com/oriya-shimonian/Swapify) | AI-assisted swap platform with real-time updates and smart filtering. | React · Node.js · PostgreSQL |
 | [Cyber Tools Suite](#) | Internal tools for the SIGINT Cyber Unit — secure, data-driven systems. | Angular · MongoDB |
 | [URL Shortener](https://github.com/oriya-shimonian/URL-Shortener) | .NET 8 URL analytics platform with EF Core and Docker. | C# · SQLite · Docker |
-| [AI Content Analyzer](#) | NLP-based text enrichment and categorization engine. | Python · OpenAI API |
+| [Users And Roles Management]([#](https://github.com/oriya-shimonian/Users-Roles-full-stack)) | User & role management system built with .NET 8, Entity Framework Core and SQLite. Follows clean architecture principles with a modular controller–service–data structure. | .NET 8 · C# · EF Core · SQLite |
 
 ---
 
 ### 🌱 Core & Soft Skills
 <p align="center">
-🌟 Collaboration · Ownership · Growth Mindset · Problem Solving · Communication  
+  <img src="https://img.shields.io/badge/🤝%20Collaboration-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20Problem%20Solving-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Ownership-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱%20Growth%20Mindset-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💬%20Communication-blueviolet?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -95,7 +88,9 @@ Curious mind • Collaborative spirit • Passion for clean, impactful code ✨
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/oriya-shimonian"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:oriyashimonian@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="mailto:oriyashimonian@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-oriyashimonian%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://github.com/oriya-shimonian"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
 </p>
 
