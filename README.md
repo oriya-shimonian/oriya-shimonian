@@ -36,11 +36,14 @@ Curious mind • Collaborative spirit • Passion for clean, impactful code • 
 
 ### 🛠 Tech Stack
 
-#### Frontend <img src="https://img.shields.io/badge/React·TypeScript·Vite·Tailwind-blue?style=for-the-badge" />
+#### Frontend  
+<img src="https://img.shields.io/badge/React·TypeScript·Vite·Tailwind-blue?style=for-the-badge" />
 
-#### Backend <img src="https://img.shields.io/badge/Node.js·PostgreSQL·MongoDB·Python-brightgreen?style=for-the-badge" />
+#### Backend  
+<img src="https://img.shields.io/badge/Node.js·PostgreSQL·MongoDB·Python-brightgreen?style=for-the-badge" />
 
-#### Tools & DevOps <img src="https://img.shields.io/badge/Git·Postman·Jira·VS%20Code·Agile-orange?style=for-the-badge" />
+#### Tools & DevOps  
+<img src="https://img.shields.io/badge/Git·Postman·Jira·VS%20Code·Agile-orange?style=for-the-badge" />
 
 ---
 
