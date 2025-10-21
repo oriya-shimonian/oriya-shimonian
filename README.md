@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=200&section=header&text=Hi%20I'm%20Oriya%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=200&section=header&text=Hi%20I'm%20Oriya&fontSize=45&fontColor=ffffff&fontAlignY=35" />
+  <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 </p>
+
 
 <h2 align="center">Full-Stack Software Engineer • React | Node.js | TypeScript | SQL</h2>
 
