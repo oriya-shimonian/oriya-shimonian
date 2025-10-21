@@ -16,56 +16,70 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=200&section=header&text=Hi%20I'm%20Oriya%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h2 align="center">Full-Stack Software Engineer | React · Node.js · TypeScript · SQL</h2>
+<h2 align="center">Full-Stack Software Engineer • React | Node.js | TypeScript | SQL</h2>
 
 <p align="center">
-🚀 Passionate about building scalable, impactful web solutions that blend technology and creativity.<br/>
-🌍 Experienced in both cybersecurity environments and modern product-driven teams.<br/>
-💡 I thrive on challenges, collaboration, and continuous learning.
+I love creating meaningful digital products — from real-time web apps to AI-powered tools.<br/>
+Curious mind • Collaborative spirit • Passion for clean, impactful code ✨
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 B.Sc. in Software Engineering (Azrieli College of Engineering, Jerusalem – 2025)
-- 💻 4 years of hands-on experience in full-stack development (React, Node.js, SQL)
-- 🛡 Built secure internal tools for the Israel Police SIGINT Cyber Unit  
-- 🧩 Developed production-grade web apps using React, TypeScript, Tailwind, and PostgreSQL  
-- 🤖 Passionate about AI-assisted automation, system design, and accessible UX  
-- 🎯 Currently exploring opportunities in Full-Stack / Software Engineering roles  
+- 🎓 Software Engineering B.Sc. (Azrieli College of Engineering, 2025)  
+- 💻 Full-stack experience in both **cybersecurity** and **product-oriented** environments  
+- 🧩 Designed and built scalable, accessible, production-grade systems  
+- 🤖 Fascinated by AI-driven automation & UX optimization  
+- 🌍 Always learning, improving, and sharing knowledge  
 
 ---
 
 ### 🛠 Tech Stack
+
+#### Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20·%20TypeScript%20·%20Vite%20·%20Tailwind-blue?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/Backend-Node.js%20·%20PostgreSQL%20·%20MongoDB%20·%20Python-brightgreen?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/DevOps-Docker%20·%20Firebase%20·%20Render-lightgrey?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tools-Git%20·%20Postman%20·%20Jira%20·%20VS%20Code%20·%20Agile-orange?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" height="45" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular" />
+</p>
+
+#### Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+</p>
+
+#### Tools & DevOps
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode" />
 </p>
 
 ---
 
-### 💼 Featured Projects
-| Project | Description | Tech Stack |
+### 💡 Featured Projects
+| Project | Description | Stack |
 |:--|:--|:--|
-| [Swapify](https://github.com/oriya-shimonian/Swapify) | AI-assisted swap platform with smart filters, Socket.IO notifications & image-based autofill. | React · Node.js · PostgreSQL |
-| [Cyber Tools Suite](#) | Internal full-stack apps for SIGINT Cyber Unit – improving analysis efficiency. | Angular · TypeScript · MongoDB |
-| [URL Shortener](https://github.com/oriya-shimonian/URL-Shortener) | Scalable short-link generator with analytics dashboard in .NET 8 + EF Core. | .NET 8 · C# · Docker |
-| [AI Content Analyzer](#) | Lightweight NLP engine for semantic text extraction & enrichment. | Python · OpenAI API |
+| [Swapify](https://github.com/oriya-shimonian/Swapify) | AI-assisted swap platform with real-time updates and smart filtering. | React · Node.js · PostgreSQL |
+| [Cyber Tools Suite](#) | Internal tools for the SIGINT Cyber Unit — secure, data-driven systems. | Angular · MongoDB |
+| [URL Shortener](https://github.com/oriya-shimonian/URL-Shortener) | .NET 8 URL analytics platform with EF Core and Docker. | C# · SQLite · Docker |
+| [AI Content Analyzer](#) | NLP-based text enrichment and categorization engine. | Python · OpenAI API |
 
 ---
 
-### 💡 Core & Soft Skills
+### 🌱 Core & Soft Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/🤝%20Collaboration-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠%20Problem%20Solving-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀%20Ownership-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌱%20Growth%20Mindset-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💬%20Communication-blueviolet?style=for-the-badge" />
+🌟 Collaboration · Ownership · Growth Mindset · Problem Solving · Communication  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Driven%20by%20Curiosity%20·%20Teamwork%20·%20Impact-blueviolet?style=for-the-badge" />
 </p>
 
 ---
